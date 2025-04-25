@@ -1,0 +1,56 @@
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 200px;
+    box-shadow: 1px 2px 1px 2px black;
+    width: 300px;
+    left: 600px;
+    height: 300px;
+    display: block;
+}
+
+
+.f{
+    border-radius: 3px;
+    border: none;
+    background-color: #09d309;
+    color: #fff;
+    width: 100px;
+    height: 50px;
+    font-size: larger;
+    font-family: fantasy;
+    position: relative;
+    top: 60px;
+    margin-left: 80px;
+}
+.f:hover{
+    background-color: #5bed5b;
+}
+.f:active{
+    opacity: 0,9;
+}
+#vb{
+    position: relative;
+    top: 50px;
+    color: #ff0000;
+    left: 20px;
+}
+input{
+    display: block;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#TT{
+    position: relative;
+    top: 20px;
+    right: 20px;
+}
+#GH{
+    position: relative;
+    left: 50px;
+}
+.kj{
+    margin-left: 70px;
+}

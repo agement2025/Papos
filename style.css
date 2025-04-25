@@ -1,0 +1,41 @@
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 200px;
+    box-shadow: 1px 2px 1px 2px black;
+    width: 300px;
+    left: 600px;
+    display: block;
+    height: 250px;
+}
+.h1 , input{
+    position: relative;
+    left: 60px;
+}
+.button{
+    border-radius: 3px;
+    border: none;
+    background-color: #09d309;
+    color: #fff;
+    width: 100px;
+    height: 50px;
+    font-size: larger;
+    font-family: fantasy;
+    position: relative;
+    top: 60px;
+    right: 75px;
+}
+.button:hover{
+    background-color: #5bed5b;
+}
+.button:active{
+    opacity: 0,9;
+}
+#fail{
+    position: relative;
+    top: 50px;
+    color: #ff0000;
+    left: 50px;
+}
